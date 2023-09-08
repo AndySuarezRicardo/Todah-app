@@ -1,5 +1,7 @@
--Copy and proube the web site on cell
 -Add church address number in footer section (inside all html files)
--Write or find 50 songs lyrics and save it inside Songs folder, then join it to the web code (may by do it using something like pictures instead word or another kind of document)
-
+-Fix all transpose troubles (for example, know when use # or b tonalities (study more about that)) and how to separate each chord just upside of it respective word
+-Copy and proube the web site on cell (if it doesn't works put all elements (including css and js in the same index.html and test if it works like this))
+-Write all posible songs lyrics
+-Take care of responsive design (For example center background pictures in index.html/comienzo)
+-Review the whole code and delete innecesary code lines (including commented code)
 
