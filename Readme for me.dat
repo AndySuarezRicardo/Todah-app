@@ -1,7 +1,12 @@
--Add church address number in footer section (inside all html files)
--Fix all transpose troubles (for example, know when use # or b tonalities (study more about that)) and how to separate each chord just upside of it respective word
+-Create the html template for 400 initial songs
+-Separate them by folders
+-Write they lyrics
+-Make the code work for split chords
+-Fix all transpose troubles (for example, know how to use # or b tonalities (study more about that)) and how to separate each chord just upside of it respective word
+-Write they chords
+-----------------------------------------------------
 -Copy and proube the web site on cell (if it doesn't works put all elements (including css and js in the same index.html and test if it works like this))
 -Write all posible songs lyrics
 -Take care of responsive design (For example center background pictures in index.html/comienzo)
 -Review the whole code and delete innecesary code lines (including commented code)
-
+-Make sure that formulary section works

@@ -1,4 +1,4 @@
- const verses = document.querySelectorAll('.verse');
+const verses = document.querySelectorAll('.verse');
         const transposeUpButton = document.getElementById('transposeUpButton');
         const transposeDownButton = document.getElementById('transposeDownButton');
 
