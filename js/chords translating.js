@@ -42,3 +42,4 @@ const verses = document.querySelectorAll('.verse');
         transposeDownButton.addEventListener('click', () => {
             transposeChords(-1); // Transpose down by one half step
         });
+
